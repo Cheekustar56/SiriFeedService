@@ -1,0 +1,10 @@
+<ServiceConfig>
+  <ConnectionString>Server=192.168.200.55;Database=TransModel_ScheduleDW;User Id=NocUser;Password=N0c#Us3r13579;Trusted_Connection=True;</ConnectionString>
+  <RequestorRef>Bristol_siri_icarus</RequestorRef>
+  <SiriEndpointUrl>http://192.168.200.54:8090/StopMonitoringRequest.ashx</SiriEndpointUrl>
+  <OutputFolder>D:\Projects\CloudAmber Project\SiriSMResponses</OutputFolder>
+  <StopCodes>
+    <Stop>0170SGP90501</Stop>
+    <Stop>0170SGP90502</Stop>
+  </StopCodes>
+</ServiceConfig>
